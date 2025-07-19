@@ -1,5 +1,5 @@
 import Image from "next/image";
-import vectorimg from '../assets/vector.jpg'
+import vectorimg from '../assets/vector.png'
 import Link from "next/link";
 
 export default function Home() {
@@ -7,8 +7,8 @@ export default function Home() {
     <main>
       <div className="absolute inset-0 -z-10 h-full w-full items-center px-5 py-24 [background:radial-gradient(125%_125%_at_50%_10%,#000_40%,#63e_100%)]"></div>
       <section className="flex justify-center items-center px-25 py-10">
-        <div className="w-[450] justify-end mr-8">
-          <Image src={vectorimg} alt="img" height={500} width={1000} className="rounded-4xl"></Image>
+        <div className="w-[900] justify-end mr-8">
+          <Image src={vectorimg} alt="img" height={800} width={1600} className="rounded-4xl bg-transparent"></Image>
         </div>
         <div className="text-white items-end">
           <p className="text-3xl font-bold">Instantly Shorten and Share Your Links!</p>
