@@ -19,5 +19,5 @@ SnipLink is a sleek, fast, and user-friendly web application that allows you to 
 * **Tailwind CSS:** A utility-first CSS framework for rapidly building custom designs.
 * **MongoDB:** A NoSQL database used for storing original and shortened URL mappings, and potentially contact messages.
 
-##Deployed
+## Deployment
 Deployed on Vercel: https://sniplink-alpha.vercel.app/
