@@ -13,7 +13,7 @@ export default function Home() {
         <div className="text-white items-end">
           <p className="text-3xl font-bold">Instantly Shorten and Share Your Links!</p>
           <p className="text-lg">Make your long URLs short and sweet. Our free URL shortener helps you create concise links for easy sharing.</p>
-          <div className="items-center justify-center my-2"><Link href="/generate"><button className='rounded-4xl bg-violet-800 font-bold px-10 py-3 cursor-pointer'>Try Now</button></Link></div>
+          <div className="items-center justify-center my-2"><Link href="/shorten"><button className='rounded-4xl bg-violet-800 font-bold px-10 py-3 cursor-pointer'>Try Now</button></Link></div>
         </div>
       </section>
     </main>
