@@ -15,6 +15,6 @@ SnipLink is a sleek, fast, and user-friendly web application that allows you to 
 ## 🚀 Technologies Used
 
 * **Next.js:** A React framework for building full-stack web applications, enabling server-side rendering and API routes.
-* **React:** A JavaScript library for building user interfaces.
+* **React.js:** A JavaScript library for building user interfaces.
 * **Tailwind CSS:** A utility-first CSS framework for rapidly building custom designs.
 * **MongoDB:** A NoSQL database used for storing original and shortened URL mappings, and potentially contact messages.
