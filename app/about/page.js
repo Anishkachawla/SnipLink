@@ -16,7 +16,7 @@ const About = () => {
                 </p>
                 <p className='text-lg leading-relaxed text-center'>
                     Our mission is to provide a fast, reliable, and user-friendly service that transforms
-                    your lengthy web addresses into short, memorable, and shareable links. Whether it's
+                    your lengthy web addresses into short, memorable, and shareable links. Whether it&apos;s
                     for social media, email, or simply for better readability, SnipLink makes your links
                     cleaner and more professional.
                 </p>

@@ -3,7 +3,7 @@ import Link from 'next/link';
 import React, { useState } from 'react'
 import toast from 'react-hot-toast';
 
-const shorten = () => {
+const Shorten = () => {
     const [url, seturl] = useState("");
     const [shorturl, setshorturl] = useState("");
     const [generated, setgenerated] = useState("");
@@ -97,4 +97,4 @@ const shorten = () => {
   )
 }
 
-export default shorten
+export default Shorten
